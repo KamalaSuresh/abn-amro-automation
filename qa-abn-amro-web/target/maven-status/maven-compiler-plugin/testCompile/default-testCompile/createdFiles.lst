@@ -1,0 +1,3 @@
+features/BaseTest.class
+features/Account/OpenPrivateAccountTests.class
+features/Account/OpenPrivateAccountTestsSteps.class
